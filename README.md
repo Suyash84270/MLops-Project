@@ -349,12 +349,3 @@ Aspiring AI/ML & GenAI Engineer
 
 ---
 
-✅ **Pro tip:**
-If you want to impress recruiters even more, I can next create:
-
-* 🔥 README badges
-* 🧠 Architecture diagram
-* 📸 Project screenshots section
-* ⭐ Resume-optimized version
-
-Just say the word.
